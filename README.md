@@ -10,6 +10,8 @@ Federico Biancardi 12:39
 Fabio Tonacchera 12:58
 Alessio Lubrano 12:57
 sergio bustillos 13:02
+Raul Tripiciano 12:58
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
